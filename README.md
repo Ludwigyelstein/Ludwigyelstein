@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on some small project
 -
 - 📫 How to reach me :
-- Email Me! {
--   ludwigyelstein@gmail.com;
+- const email_Me = {
+-   "Gmail", "ludwigyelstein@gmail.com";
 - }
 
 <!---
