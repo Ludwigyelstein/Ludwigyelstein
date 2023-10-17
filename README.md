@@ -2,7 +2,7 @@
 -
 - 👀 I’m interested in HTML,CSS,JS, and C++
 -
-- 🌱 I’m currently learning C++, PHP, and maybe python later? XD
+- 🌱 I’m currently learning C++, PHP, Node.js and maybe python later? XD
 -
 - 💞️ I’m looking to collaborate on some small project
 -
